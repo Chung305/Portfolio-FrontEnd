@@ -7,11 +7,12 @@
   },
   "scripts": {
     "ng": "ng",
-    "start": "node server.js",
+    "start": "node src/index.js",
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "heroku-postbuild": "echo Skip build on Heroku"
   },
   "private": true,
   "dependencies": {
@@ -49,5 +50,6 @@
     "ts-node": "~7.0.0",
     "tslint": "~5.15.0",
     "typescript": "~3.5.3"
-  }
+  },
+  "heroku-run-build-script": true
 }
