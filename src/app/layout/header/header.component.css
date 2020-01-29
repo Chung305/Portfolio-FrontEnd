@@ -1,0 +1,35 @@
+.container{
+    text-align: center;
+
+}
+.icon-container{
+    width: 100%;
+    text-align: right;
+   
+}
+.social-icons{
+    height: 75px;
+    width: 75px;
+}
+ul{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+.list-group{
+    text-decoration-style: none;
+}
+
+/* @media only screen and (min-width:600px){
+
+    .social-icons{
+        height:150px;
+        width: 150px;
+    }
+    .icon-container{
+        width:20%;
+        float: right;
+    }
+
+
+} */
