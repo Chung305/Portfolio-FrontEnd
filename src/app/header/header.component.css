@@ -60,6 +60,7 @@ a{
         margin-top: 45px;
         border-bottom-style: solid;
         border-bottom-color:  transparent;
+        transition: border-bottom 600ms;
         
     }
     h5:hover{
