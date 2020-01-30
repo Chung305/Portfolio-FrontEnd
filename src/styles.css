@@ -3,6 +3,9 @@
 * {
     font-family: "Verdana", Georgia, serif;
 }
+html{
+    height:100%;
+}
 
 body{
     background: url("assets/img/background.jpg") center center fixed;
@@ -10,7 +13,7 @@ body{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-   
+   min-height:100%;
    
     
 }
