@@ -1,0 +1,38 @@
+.container{
+    text-align: center;
+    color: white;
+    letter-spacing: 0.1em;
+}
+
+h1{
+    margin-top: 30px;
+}
+.project-container{
+    text-align: left;
+}
+.project-repos{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.project-repos p{
+    margin-bottom: 5px;
+}
+.stack-p{
+    margin-bottom: 0;
+}
+ul{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(255, 57, 43);
+}
+hr{
+    background-color: rgb(255, 57, 43);
+    width: 50%;
+}
