@@ -7,6 +7,9 @@
 h1{
     margin-top: 30px;
 }
+h4{
+    color: rgb(255, 57, 43);
+}
 .project-container{
     text-align: left;
 }
