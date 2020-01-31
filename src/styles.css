@@ -1,8 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~bootstrap/dist/css/bootstrap.min.css';
 * {
-    /* font-family: "Verdana", Georgia, serif; */
-    font-family: 'Special Elite', cursive;
+    font-family: 'Raleway', sans-serif;
+    /* font-family: 'Nunito', sans-serif; */
+
+
 }
 html{
     height:100%;
