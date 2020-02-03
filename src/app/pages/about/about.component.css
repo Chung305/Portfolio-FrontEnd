@@ -34,11 +34,15 @@ button:hover{
     flex-direction: column;
 }
 #my-picture{
-    height:200px;
-    width:170px;
-    background-color: thistle;
+    
+    
+    
     margin-left: auto;
     margin-right: auto;
+}
+#my-picture img{
+    width: 240px;
+    height: 260px;
 }
 
 
@@ -57,5 +61,11 @@ button:hover{
    #my-details{
        text-align: left;
    }
+   #my-picture img{
+    width: 275px;
+    height: 295px;
+}
+
+
 
 }
